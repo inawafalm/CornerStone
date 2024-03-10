@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0554C4E82B9DD92A00CCE5DF /* HelloTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0554C4E72B9DD92A00CCE5DF /* HelloTableViewController.swift */; };
 		056FDA552B9DD5D7005E66D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056FDA542B9DD5D7005E66D2 /* AppDelegate.swift */; };
 		056FDA572B9DD5D7005E66D2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056FDA562B9DD5D7005E66D2 /* SceneDelegate.swift */; };
 		056FDA592B9DD5D7005E66D2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056FDA582B9DD5D7005E66D2 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0554C4E72B9DD92A00CCE5DF /* HelloTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloTableViewController.swift; sourceTree = "<group>"; };
 		056FDA512B9DD5D7005E66D2 /* CornerStone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CornerStone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		056FDA542B9DD5D7005E66D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		056FDA562B9DD5D7005E66D2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				056FDA542B9DD5D7005E66D2 /* AppDelegate.swift */,
 				056FDA562B9DD5D7005E66D2 /* SceneDelegate.swift */,
 				056FDA582B9DD5D7005E66D2 /* ViewController.swift */,
+				0554C4E72B9DD92A00CCE5DF /* HelloTableViewController.swift */,
 				056FDA5A2B9DD5D7005E66D2 /* Main.storyboard */,
 				056FDA5D2B9DD5D7005E66D2 /* Assets.xcassets */,
 				056FDA5F2B9DD5D7005E66D2 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0554C4E82B9DD92A00CCE5DF /* HelloTableViewController.swift in Sources */,
 				056FDA592B9DD5D7005E66D2 /* ViewController.swift in Sources */,
 				056FDA552B9DD5D7005E66D2 /* AppDelegate.swift in Sources */,
 				056FDA572B9DD5D7005E66D2 /* SceneDelegate.swift in Sources */,
