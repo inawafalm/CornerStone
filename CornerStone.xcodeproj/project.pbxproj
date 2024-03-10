@@ -14,6 +14,7 @@
 		056FDA5C2B9DD5D7005E66D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 056FDA5A2B9DD5D7005E66D2 /* Main.storyboard */; };
 		056FDA5E2B9DD5D7005E66D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 056FDA5D2B9DD5D7005E66D2 /* Assets.xcassets */; };
 		056FDA612B9DD5D7005E66D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 056FDA5F2B9DD5D7005E66D2 /* LaunchScreen.storyboard */; };
+		4165EB002B9DDFC800C494DD /* AbdullahViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4165EAFF2B9DDFC800C494DD /* AbdullahViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		056FDA5D2B9DD5D7005E66D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		056FDA602B9DD5D7005E66D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		056FDA622B9DD5D7005E66D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4165EAFF2B9DDFC800C494DD /* AbdullahViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbdullahViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		056FDA482B9DD5D7005E66D2 = {
 			isa = PBXGroup;
 			children = (
+				4165EAFF2B9DDFC800C494DD /* AbdullahViewController.swift */,
 				056FDA532B9DD5D7005E66D2 /* CornerStone */,
 				056FDA522B9DD5D7005E66D2 /* Products */,
 			);
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0554C4E82B9DD92A00CCE5DF /* HelloTableViewController.swift in Sources */,
+				4165EB002B9DDFC800C494DD /* AbdullahViewController.swift in Sources */,
 				056FDA592B9DD5D7005E66D2 /* ViewController.swift in Sources */,
 				056FDA552B9DD5D7005E66D2 /* AppDelegate.swift in Sources */,
 				056FDA572B9DD5D7005E66D2 /* SceneDelegate.swift in Sources */,
