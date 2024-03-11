@@ -150,11 +150,8 @@
 				0554C4E82B9DD92A00CCE5DF /* HelloTableViewController.swift in Sources */,
 				056FDA592B9DD5D7005E66D2 /* ViewController.swift in Sources */,
 				056FDA552B9DD5D7005E66D2 /* AppDelegate.swift in Sources */,
-<<<<<<< HEAD
 				0554C4EA2B9DDFBF00CCE5DF /* MubarakTableViewController.swift in Sources */,
-=======
 				FCB4A0662B9DDFDF00C64514 /* YousefViewController.swift in Sources */,
->>>>>>> yousef
 				056FDA572B9DD5D7005E66D2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
